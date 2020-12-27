@@ -6,26 +6,14 @@
 
 讓小幫手解決您的選擇困難 !
 
-## 使用說明
 
-### FSM Diagram
-
+## FSM Diagram
 ![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/machine_diagram.png?raw=true)
 
-#### Install Dependency
-```sh
-pip3 install pipenv
 
-pipenv --three
+## 使用說明
 
-pipenv install
-
-pipenv shell
-```
-
-* pygraphviz (For visualizing Finite State Machine)
-    * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
-	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
+* 首先，傳任意文字訊息喚醒小幫手，便可以利用 flex message 快速選擇想要的服務。
 
 
 #### Secret Data
