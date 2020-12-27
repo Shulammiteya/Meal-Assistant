@@ -9,10 +9,8 @@
 ## 使用說明
 
 ### FSM Diagram
-* Python 3.6
-* Pipenv
-* Facebook Page and App
-* HTTPS Server
+
+![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/machine_diagram.png?raw=true)
 
 #### Install Dependency
 ```sh
