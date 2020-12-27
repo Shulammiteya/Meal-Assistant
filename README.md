@@ -43,5 +43,5 @@
 * 而flex message除了圖片外，還有兩個按鈕，一個是看原圖，一個是連接到 google map，方便使用者前往想要的餐廳。
 	![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E5%9C%96%E7%89%873.png?raw=true)
 	
-* 選擇『看看過去我吃了什麼』，再做紀錄幾次。而從底下的截圖也可以看出，小幫手確實會根據以前吃過的東西來做推薦呢。（若什麼都沒紀錄就會隨機推薦）。
+* 選擇『看看過去我吃了什麼』，再做紀錄幾次。而小幫手會根據以前吃過的東西來做推薦喔，（若無紀錄便隨機推薦）。
 	![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E5%9C%96%E7%89%874.png?raw=true)
