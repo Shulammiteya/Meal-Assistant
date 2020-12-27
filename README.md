@@ -1,16 +1,16 @@
 # toc-project-what-to-eat
 
-The Linebot for TOC project.
-
-## Libot 資訊
-![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(61).png?raw=true)
+	The Linebot for TOC project.
 
 ## 吃啥吃啥小幫手
 
-每天都很煩惱要吃什麼嗎 ?
+	每天都很煩惱要吃什麼嗎 ?
 
-讓小幫手解決您的選擇困難 !
+	讓小幫手解決您的選擇困難 !
 
+
+## 好友資訊
+![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(61).png?raw=true)
 
 ## FSM Diagram
 ![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/machine_diagram.png?raw=true)
@@ -38,8 +38,10 @@ The Linebot for TOC project.
 
 * 首先，傳任意文字訊息喚醒小幫手，小幫手會傳給使用者flex message，可以快速選擇想要的服務。
 
-* 選擇『我想吃．．．』，再選擇想吃的食物（若是選項中沒有使用者想吃的服務，可以直接輸入訊息）接著就可以從flex message看網路上抓取的相關食物照片，每次照片可能不同，因為有在所有抓取到的相關實物照片中隨機選擇，避免使用者覺得每次都一樣照片而感到無聊。而flex message除了圖片還有兩個按鈕，一個是看原圖，一個是連接到ｇｏｏｇｌｅ　ｍａｐ，方便使用者前往想要的餐廳。
+* 選擇『我想吃．．．』，再選擇想吃的食物（若是選項中沒有使用者想吃的服務，可以直接輸入訊息），
+* 接著從flex message看網路上抓取的相關食物照片，每次照片可能不同，因為有在所有抓取到的相關實物照片中隨機選擇，避免使用者因為每次都一樣照片而感到無聊。
+* 而flex message除了圖片外，還有兩個按鈕，一個是看原圖，一個是連接到 google map，方便使用者前往想要的餐廳。
 	![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E5%9C%96%E7%89%873.png?raw=true)
 	
-* 選擇『看看過去我吃了什麼』，再紀錄幾次檢查是否正確。而從底下的截圖也可以看出，小幫手確實是根據以前吃過的東西來做推薦呢。
+* 選擇『看看過去我吃了什麼』，再做紀錄幾次。而從底下的截圖也可以看出，小幫手確實會根據以前吃過的東西來做推薦呢。（若什麼都沒紀錄就會隨機推薦）。
 	![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E5%9C%96%E7%89%874.png?raw=true)
