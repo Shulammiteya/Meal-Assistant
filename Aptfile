@@ -1,0 +1,4 @@
+graphviz
+libgraphviz-dev
+pkg-config
+psycopg2
