@@ -13,7 +13,7 @@
 ![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(61).png?raw=true)
 
 ## FSM Diagram
-![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/machine_diagram.png?raw=true)
+![image](https://raw.githubusercontent.com/Shulammiteya/toc-project-what-to-eat/main/received_890917781680792.webp)
 
 
 ## 使用說明
