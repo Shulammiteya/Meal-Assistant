@@ -1,6 +1,26 @@
-# toc-project-what-to-eat
 
-	The Linebot for TOC project.
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Shulammiteya/Tone-Helper-Frontend">
+    <img src="https://drive.google.com/uc?export=view&id=15D3e46dXQmxoHnjkaBEAvMqjX6DQ1R5C" alt="Logo" width="100" height="100">
+  </a>
+
+  <h3 align="center">Meal Assitant</h3>
+
+  <p align="center">
+    A Line bot based on a Finite State Machine.
+    <br />
+    <a href="https://github.com/Shulammiteya/Meal-Assitant"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Shulammiteya/Meal-Assitant/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Shulammiteya/Meal-Assitant/issues">Request Feature</a>
+  </p>
+</p>
+
 
 ## 吃啥吃啥小幫手
 
@@ -45,3 +65,26 @@
 	
 * 選擇『看看過去我吃了什麼』，再做紀錄幾次。而小幫手會根據以前吃過的東西來做推薦喔，（若無紀錄便隨機推薦）。
 	![image](https://github.com/Shulammiteya/toc-project-what-to-eat/blob/main/img_fix/%E5%9C%96%E7%89%874.png?raw=true)
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+<br />
+
+
+
+<!-- CONTACT -->
+## Contact
+
+About me: [Hsin-Hsin, Chen](https://www.facebook.com/profile.php?id=100004017297228) - shulammite302332@gmail.com
+
+Project Link: [https://github.com/Shulammiteya/Meal-Assistant](https://github.com/Shulammiteya/Meal-Assistant)
