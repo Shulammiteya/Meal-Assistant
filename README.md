@@ -7,17 +7,17 @@
     <img src="https://drive.google.com/uc?export=view&id=15D3e46dXQmxoHnjkaBEAvMqjX6DQ1R5C" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Meal Assitant</h3>
+  <h3 align="center">Meal Assistant</h3>
 
   <p align="center">
     A Line bot based on a Finite State Machine.
     <br />
-    <a href="https://github.com/Shulammiteya/Meal-Assitant"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shulammiteya/Meal-Assistant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Shulammiteya/Meal-Assitant/issues">Report Bug</a>
+    <a href="https://github.com/Shulammiteya/Meal-Assistant/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Shulammiteya/Meal-Assitant/issues">Request Feature</a>
+    <a href="https://github.com/Shulammiteya/Meal-Assistant/issues">Request Feature</a>
   </p>
 </p>
 
